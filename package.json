@@ -1,0 +1,20 @@
+{
+  "name": "highcharts-axis-crossing",
+  "version": "0.1.0",
+  "description": "Highcharts plugin to set axis crossing value",
+  "main": "highcharts-axis-crossing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dschenck/highcharts-axis-crossing.git"
+  },
+  "keywords": [
+    "highcharts",
+    "plugin",
+    "highcharts-addon"
+  ],
+  "author": "David Schenck",
+  "license": "MIT"
+}
